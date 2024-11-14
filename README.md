@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sejam Bem Vindos! 👋
 
 <!--
 **rafaelrti/rafaelrti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
