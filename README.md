@@ -9,11 +9,11 @@
 
 ## Sobre Mim
 
-- 🔭 **Atualmente estou trabalhando na Fourmaq Soluções em Agronegócios** como Head de Tecnologia.
+- 🔭 **Founder AT Project mindmetri.com.br.
 - 🌱 **Atualmente estou aprendendo Data Science**.
 - 👯 **Estou procurando colaborar em Análise de Dados**.
 - 💬 **Pergunte-me sobre Python e SQL**.
-- 📫 **Como entrar em contato comigo:** rafael@data-r.com.br.
+- 📫 **Como entrar em contato comigo:** rtiweb6@gmail.com.
 - 😄 **Pronomes:** Rafa.
 - ⚡ **Curiosidade:** Sou apaixonado por encontrar padrões em dados desestruturados.
 
